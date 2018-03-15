@@ -1,0 +1,6 @@
+#Algorithms
+
+#Bubble Sort
+Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping
+the adjacent elements if they are in wrong order.
+In bubble sort algorithm, array is traversed from first element to last element. Here, current element is compared with the next element. If current element is greater than the next element, it is swapped.
